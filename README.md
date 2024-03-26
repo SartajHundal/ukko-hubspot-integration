@@ -1,9 +1,6 @@
-# ukko-hubspot-integration
-Finland has adopted HubSpot as a de facto CRM as of 2024. We are developing a hypothetical bridge to compete with Stripe.
-
 # Ukko-HubSpot Integration
 
-This project demonstrates a basic integration between a hypothetical payment solution, Ukko, and HubSpot, a popular CRM platform. The integration aims to automate the process of creating transactions in Ukko and updating corresponding deals in HubSpot with transaction details.
+This project demonstrates a basic bridge between an industrial-grade payment solution, Ukko, and HubSpot, a popular CRM platform. The integration aims to automate the process of creating transactions in Ukko and updating corresponding deals in HubSpot with transaction details. I'm surprised this hasn't been tackled at all in the country after taking Phind for a drive today, but here we are. It could be a good second-year project for an undergraduate or a candidate to port into HubSpot Apps (time permitting).
 
 ## Table of Contents
 
