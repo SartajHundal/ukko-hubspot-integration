@@ -16,8 +16,8 @@ This project demonstrates a basic bridge between an industrial-grade payment sol
 ### Prerequisites
 
 - Node.js (v14.0.0 or higher)
-- A Ukko API key
-- A HubSpot API key
+- Ukko API key
+- HubSpot API key
 
 ### Installation
 
